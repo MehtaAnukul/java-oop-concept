@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Anukul-PC on 18-03-2018.
  */
-public class ArithmaticUseFun {
+class ArithmaticUseFun {
 
 
     float result;

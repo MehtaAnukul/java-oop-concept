@@ -5,11 +5,6 @@ package ClassObject;
  */
 public class RunArithmaticUseFun {
     public static void main(String[] args) {
-        ArithmaticUseFun r = new ArithmaticUseFun();
-        r.init();
-
-
-
-
+        FuctionConcept fuctionConcept = new FuctionConcept();
     }
 }
