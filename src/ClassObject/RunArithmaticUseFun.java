@@ -6,5 +6,7 @@ package ClassObject;
 public class RunArithmaticUseFun {
     public static void main(String[] args) {
         FuctionConcept fuctionConcept = new FuctionConcept();
+
+
     }
 }

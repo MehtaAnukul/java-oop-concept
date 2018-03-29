@@ -2,13 +2,22 @@ package ClassObject;
 
 import java.util.Scanner;
 
-class FuctionConcept {
+public class FuctionConcept {
 
     private int a;
     private int b;
     private Scanner readValue;
+    int testDefault;
+    public int testPublic;
+
+    String string = "hello";
+
+
+
+
 
     FuctionConcept() {
+
         readValue = new Scanner(System.in);
         choice();
     }
