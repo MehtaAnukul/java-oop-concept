@@ -12,10 +12,6 @@ public class FuctionConcept {
 
     String string = "hello";
 
-
-
-
-
     FuctionConcept() {
 
         readValue = new Scanner(System.in);

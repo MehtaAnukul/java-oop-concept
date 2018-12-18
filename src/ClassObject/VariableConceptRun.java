@@ -9,6 +9,7 @@ public class VariableConceptRun {
 
         VariableConcept anukul = new VariableConcept();
         VariableConcept mimoh = new VariableConcept();
+        VariableConcept ramesh = new VariableConcept();
 
 
         System.out.println("ANUKUL OBJECT");
@@ -22,6 +23,13 @@ public class VariableConceptRun {
         System.out.println("MIMOH OBJECT");
         mimoh.counterA();
         mimoh.counterB();
+
+        System.out.println();
+        System.out.println();
+
+        System.out.println("RAMESH OBJECT");
+        ramesh.counterA();
+        ramesh.counterB();
 
 
     }

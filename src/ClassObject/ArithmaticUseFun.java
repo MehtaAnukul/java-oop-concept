@@ -65,15 +65,12 @@ class ArithmaticUseFun {
             case 2:
                 sub(a, b);
                 break;
-
             case 3:
                 mul(a, b);
                 break;
-
             case 4:
                 div(a, b);
                 break;
-
             case 5:
                 mod(a, b);
                 break;

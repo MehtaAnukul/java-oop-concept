@@ -5,7 +5,7 @@ import javax.jws.soap.SOAPBinding;
 /**
  * Created by Anukul-PC on 20-03-2018.
  */
-public class RunStringConcept {
+public class StringConceptRun {
     public static void main(String[] args) {
 
 
